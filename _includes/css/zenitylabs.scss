@@ -153,6 +153,7 @@ a:focus {
 
 .intro .intro-body .brand-heading {
     font-size: 40px;
+    color: lightskyblue;
 }
 
 .intro .intro-body .intro-text {
@@ -296,7 +297,7 @@ a:focus {
 
 .btn-default {
     border: 1px solid {{ site.color.links }};
-    color: {{ site.color.links }};
+    color: {{ site.color.brand }};
     background-color: transparent;
 }
 

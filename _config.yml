@@ -8,6 +8,7 @@ description: "Zenity Labs is a software studio dedicated to building simple prod
 color:
   primary-dark: '#000000'
   links: '#1359c8'
+  brand: '#1359c8'
 
 # Footer settings
 footer: Zenity Labs
