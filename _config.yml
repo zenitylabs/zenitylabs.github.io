@@ -2,12 +2,12 @@
 title: Zenity Labs
 email: support@zenitylabs.com
 url: https://zenitylabs.com
-description: "Zenity Labs is a software studio dedicated to building simple products that get out of your way."
+description: "Zenity Labs is a software studio dedicated to building simple products that get out of your way"
 
 # Color settings (hex-codes without the leading hash-tag)
 color:
   primary-dark: '#000000'
-  links: '#219ab3'
+  links: '#1359c8'
 
 # Footer settings
 footer: Zenity Labs
